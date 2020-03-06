@@ -25,7 +25,7 @@
     * **Choice 2** git clone this repo  
 
        ```bash
-       git clone https://github.com/IPvSean/ansible-networking-vagrant-demo
+       git clone https://github.com/tux-vador/Ansible-Training-v2
        ```
 
 4. Open up a terminal window in the same directory as the Vagrantfile
